@@ -1,7 +1,7 @@
 # cartographer
 A working clone of google cartographer
 
-## installation
+## Build & installation
 ```sh
 # Install wstool and rosdep.
 sudo apt-get update
