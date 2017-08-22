@@ -1,8 +1,0 @@
-prefix=/home/mrsang/cartographer_ws/install_isolated
-
-Name: cartographer_ros_msgs
-Description: Description of cartographer_ros_msgs
-Version: 0.2.0
-Cflags: -I/home/mrsang/cartographer_ws/install_isolated/include
-Libs: -L/home/mrsang/cartographer_ws/install_isolated/lib 
-Requires: geometry_msgs
